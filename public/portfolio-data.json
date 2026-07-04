@@ -1,0 +1,164 @@
+﻿{
+  "brand": {
+    "name": "Aarav Khanna",
+    "initials": "AK",
+    "title": "Independent Brand Designer & Art Director",
+    "tagline": "I help Indian brands and creators build identities, art direction and editorial systems that feel rooted, modern and unmistakably theirs.",
+    "location": "Bengaluru, Karnataka",
+    "email": "hello@aaravkhanna.studio",
+    "phone": "+91 98450 12345"
+  },
+  "navLinks": [
+    { "id": "home", "label": "Home" },
+    { "id": "about", "label": "About" },
+    { "id": "work", "label": "Work" },
+    { "id": "services", "label": "Services" },
+    { "id": "experience", "label": "Experience" },
+    { "id": "voices", "label": "Voices" },
+    { "id": "contact", "label": "Contact" }
+  ],
+  "about": {
+    "story": "I believe design is the quiet architecture of attention. Over the past eight years I have directed campaigns, edited films and built brand worlds for clients ranging from independent ateliers in Jaipur to cultural institutions in Mumbai. My practice sits at the intersection of editorial, motion and identity — disciplined, sensual and deeply human.",
+    "philosophy": "Craft over trend. Story over noise. Every frame, word and grid should earn its place. I work in long arcs with the people I trust, and I treat each brief as a collaboration, not a transaction.",
+    "stats": [
+      { "value": "8+", "label": "Years in practice" },
+      { "value": "60+", "label": "Brands shaped" },
+      { "value": "18", "label": "Awards & features" }
+    ]
+  },
+  "skills": [
+    { "label": "Brand Identity", "category": "Design" },
+    { "label": "Editorial Layout", "category": "Design" },
+    { "label": "Type Design", "category": "Design" },
+    { "label": "Art Direction", "category": "Design" },
+    { "label": "Color Systems", "category": "Design" },
+    { "label": "Adobe Premiere Pro", "category": "Editing" },
+    { "label": "DaVinci Resolve", "category": "Editing" },
+    { "label": "After Effects", "category": "Editing" },
+    { "label": "Final Cut Pro", "category": "Editing" },
+    { "label": "Social Strategy", "category": "Marketing" },
+    { "label": "Campaign Direction", "category": "Marketing" },
+    { "label": "Content Calendars", "category": "Marketing" },
+    { "label": "Figma", "category": "Creative Tools" },
+    { "label": "Photoshop", "category": "Creative Tools" },
+    { "label": "Illustrator", "category": "Creative Tools" },
+    { "label": "InDesign", "category": "Creative Tools" },
+    { "label": "Blender", "category": "Creative Tools" }
+  ],
+  "projects": [
+    {
+      "title": "Kala — Cultural Festival Identity",
+      "client": "Kala Foundation, Mumbai",
+      "description": "A complete identity system for a pan-Indian visual arts festival — wordmark, print series, signage and a films programme. Built around a custom display typeface inspired by Devanagari calligraphy.",
+      "tags": ["Brand Identity", "Type", "Print"],
+      "year": "2025",
+      "highlights": [
+        "Wordmark + sub-brand system",
+        "60-page risograph print series",
+        "Festival signage across 4 cities"
+      ]
+    },
+    {
+      "title": "Saffron & Sandal — Spice Brand",
+      "client": "Saffron & Sandal Co., Kochi",
+      "description": "Repositioning a 40-year-old Kerala spice house for a new generation. Packaging, e-commerce art direction and a launch campaign shot in the spice plantations of Wayanad.",
+      "tags": ["Packaging", "Art Direction", "Photography"],
+      "year": "2024",
+      "highlights": [
+        "12 SKUs of new packaging",
+        "Editorial launch film",
+        "+38% reorder rate in 6 months"
+      ]
+    },
+    {
+      "title": "Noor — Documentary Short",
+      "client": "Independent, Delhi",
+      "description": "Edited and color-graded a 22-minute documentary on female calligraphers from Old Delhi. Premiered at the Mumbai Frameline Festival in early 2024.",
+      "tags": ["Video Editing", "Color", "Documentary"],
+      "year": "2024",
+      "highlights": [
+        "22-min director's cut",
+        "Mumbai Frameline selection",
+        "DD/5.1 sound design"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Independent Brand Designer",
+      "company": "Self-employed",
+      "period": "2021 — Present",
+      "description": "Lead visual direction for cultural institutions and fashion houses across India. Direct campaigns, edit short-form film and design brand systems end-to-end."
+    },
+    {
+      "role": "Senior Art Director",
+      "company": "Forma Studio, Mumbai",
+      "period": "2017 — 2021",
+      "description": "Directed brand identity and editorial work for clients across India and the GCC. Mentored a team of four designers and one editor."
+    },
+    {
+      "role": "Designer & Editor",
+      "company": "Casa Comum, Bengaluru",
+      "period": "2014 — 2017",
+      "description": "Hybrid role spanning editorial design, in-house video editing and the launch of the studio's digital magazine."
+    }
+  ],
+  "education": [
+    {
+      "degree": "MA, Visual Communication",
+      "institution": "National Institute of Design, Ahmedabad",
+      "period": "2012 — 2014",
+      "description": "Specialised in editorial systems and typography."
+    },
+    {
+      "degree": "BA, Graphic Design",
+      "institution": "Srishti Institute of Art, Design & Technology, Bengaluru",
+      "period": "2008 — 2012"
+    }
+  ],
+  "certifications": [
+    { "title": "Brand Strategy Essentials", "issuer": "Domus India", "year": "2023" },
+    { "title": "Color Grading with DaVinci Resolve", "issuer": "FilmSkills", "year": "2022" },
+    { "title": "Editorial Typography", "issuer": "Type@Cooper", "year": "2021" },
+    { "title": "Motion Design Foundations", "issuer": "School of Motion", "year": "2020" }
+  ],
+  "testimonials": [
+    {
+      "quote": "Aarav rebuilt our identity from the type up. The wordmark alone finally gives the festival the gravity it has always deserved. He works slowly, carefully, and the work is better for it.",
+      "author": "Priya Iyer",
+      "role": "Director, Kala Foundation"
+    },
+    {
+      "quote": "Working with Aarav is like editing with someone who already knows where the cut lives. Patient, precise and quietly opinionated — the way every editor should be.",
+      "author": "Rohan Mehta",
+      "role": "Director, Noor (doc. short)"
+    },
+    {
+      "quote": "He gave our forty-year-old spice brand a new visual language that still feels Indian. Sales have climbed every quarter since the relaunch.",
+      "author": "Anjali Thomas",
+      "role": "Founder, Saffron & Sandal Co."
+    }
+  ],
+  "services": [
+    {
+      "title": "Brand Identity",
+      "description": "From naming and visual systems to guidelines and launch assets — identities built to last beyond the trend cycle.",
+      "bullets": ["Logo & wordmark", "Type system", "Color & motion", "Guidelines"]
+    },
+    {
+      "title": "Art Direction",
+      "description": "Editorial direction for campaigns, lookbooks and digital stories. Concept, casting, locations and final execution.",
+      "bullets": ["Campaign concept", "Mood & treatment", "On-set direction", "Final edit"]
+    },
+    {
+      "title": "Video Editing & Color",
+      "description": "Short-form films, documentaries and brand films. Edit, sound design and grade in Resolve or Premiere.",
+      "bullets": ["Narrative edit", "Sound design", "Color grading", "Delivery"]
+    },
+    {
+      "title": "Social & Content",
+      "description": "Visual content systems for Instagram, LinkedIn and newsletters. Calendar, art direction, production and handover.",
+      "bullets": ["Content pillars", "Templates", "Production", "Monthly reports"]
+    }
+  ]
+}
