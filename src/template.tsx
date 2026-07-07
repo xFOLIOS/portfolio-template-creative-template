@@ -730,8 +730,7 @@ function Hero({
 						<span className="h-px w-10 bg-ember dark:bg-saffron" />
 						{data.brand.location}
 					</div>
-					<h1 className="font-display text-5xl leading-[0.95] tracking-tight text-neutral-900 dark:text-neutral-50 sm:text-6xl md:text-7xl lg:text-[80px]">
-						{nameParts[0]}
+					<h1 className="font-display text-5xl leading-[0.95] tracking-tight text-neutral-900 dark:text-neutral-50 sm:text-6xl md:text-7xl lg:text-[80px]"><span className="text-neutral-900 dark:text-neutral-50">{nameParts[0]}</span>
 						{nameParts.length > 1 && (
 							<span className="block italic text-plum dark:text-lilac">
 								{nameParts.slice(1).join(" ")}
@@ -1808,7 +1807,7 @@ export default function CreativeTemplate({
 				toggle: () => setTheme((t) => (t === "dark" ? "light" : "dark")),
 			}}
 		>
-			<div className="min-h-screen bg-paper text-ink antialiased">
+			<div className="min-h-screen bg-paper text-ink dark:bg-ink dark:text-paper antialiased">
 				<Nav data={data} presence={presence} />
 				<main>
 					<Hero data={data} hasContact={presence.contact} />
